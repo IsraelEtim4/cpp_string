@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\stringCRUD\\stringCRUD.csproj": {}
+    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\stringCRUD\\stringCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\stringCRUD\\stringCRUD.csproj": {
+    "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\stringCRUD\\stringCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\stringCRUD\\stringCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\stringCRUD\\stringCRUD.csproj",
         "projectName": "stringCRUD",
-        "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\stringCRUD\\stringCRUD.csproj",
+        "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\stringCRUD\\stringCRUD.csproj",
         "packagesPath": "C:\\Users\\EL'SOLO HUB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\stringCRUD\\obj\\",
+        "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\stringCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EL'SOLO HUB\\AppData\\Roaming\\NuGet\\NuGet.Config",

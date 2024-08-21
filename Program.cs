@@ -11,9 +11,10 @@ petInstrument = "Stentor " + petInstrument;
 
 // Template Literal: allows us to create strings in complex fashion
 Console.WriteLine($"I AM BUYING A {petInstrument}. YOU CANNOT STOP ME!!!");
+Console.WriteLine("\n");
 
 Console.WriteLine(petInstrument);
-
+Console.WriteLine("\n");
 
 // READ
 // Console.WriteLine()
@@ -34,5 +35,5 @@ newPercussion.Append("Complete Drums");
 Console.WriteLine(newPercussion);
 
 // To delete things from strings
-newPercussion.Remove(0, 8);
+newPercussion.Remove(0, 9);
 Console.WriteLine(newPercussion);

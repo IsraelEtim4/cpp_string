@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = stringCRUD
-build_property.ProjectDir = C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\stringCRUD\
+build_property.ProjectDir = C:\Users\EL'SOLO HUB\Documents\Codes\C#\stringCRUD\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
